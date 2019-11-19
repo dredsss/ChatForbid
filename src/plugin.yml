@@ -1,0 +1,8 @@
+name: ChatForbid
+version: 1
+author: dredsss
+description: It manages chat, makes it open to messages and close it again
+main: dredsss.chatforbid.Main
+commands:
+  togglechat:
+    help: Toggle chat access
